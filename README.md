@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- NLP
+
  
- **N** 
+
 
  ### ABOUT MY EDUCATION
- - UNIVERSITY OF GHANA
- - BANGOR UNIVERISTY 
+ - UNIVERSITY OF GHANA, LEGON
+ - BANGOR UNIVERISTY, BANGOR GWYNEDD, UK
