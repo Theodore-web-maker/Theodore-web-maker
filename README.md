@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 
 **Theodore-web-maker/Theodore-web-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- NLP
+ 
+ **N** 
+
+ ### ABOUT MY EDUCATION
+ - UNIVERSITY OF GHANA
+ - BANGOR UNIVERISTY 
